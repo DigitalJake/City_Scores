@@ -13,6 +13,7 @@ Here are the key steps I followed to create this list:
 1. **Data Extraction:** I used Python to extract data from the Teleport API. 
 
 2. **Data Compilation:** The relevant metrics were gathered into a pandas DataFrame and then exported to a CSV file for further processing.
+
 ![Alt text](Cities.jpg)
 
 ## Summary
